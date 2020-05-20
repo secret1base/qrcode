@@ -2,3 +2,5 @@
 
 样式如下:
 
+![](https://github.com/secret1base/qrcode/blob/master/qrcode/image/card.jpg)
+
